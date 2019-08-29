@@ -2,9 +2,6 @@
 site_name: Test
 pages:
 - Home: 'index.md'
-- Tools:
-    - SSH: 'tools/ssh.md'
-    - Git: 'tools/git.md'
-- Configuration:
-    - CA Certificates: 'config/certificates/README.md'
+- Windows:
+  - 'windows/windows.md'
 theme: readthedocs
