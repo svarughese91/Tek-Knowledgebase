@@ -3,5 +3,6 @@ site_name: TekDash Knowledgebase
 pages:
 - Home: 'index.md'
 - Windows: 'windows/windows.md'
+  - Virus Removal: 'windows/virus/virus-removal-checklist.md'
 
 theme: readthedocs
