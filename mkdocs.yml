@@ -1,7 +1,7 @@
 # mkdocs.yml -- MkDocs configuration, all *.md files relative to docs/
-site_name: Test
+site_name: TekDash Knowledgebase
 pages:
 - Home: 'index.md'
-- Windows:
-  - 'windows/windows.md'
+- Windows: 'windows/windows.md'
+
 theme: readthedocs
