@@ -1,1 +1,10 @@
-site_name: My Docs
+# mkdocs.yml -- MkDocs configuration, all *.md files relative to docs/
+site_name: Test
+pages:
+- Home: 'index.md'
+- Tools:
+    - SSH: 'tools/ssh.md'
+    - Git: 'tools/git.md'
+- Configuration:
+    - CA Certificates: 'config/certificates/README.md'
+theme: readthedocs
