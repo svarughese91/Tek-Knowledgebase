@@ -2,6 +2,11 @@
 site_name: TekDash Knowledgebase
 pages:
 - Home: 'index.md'
-- Windows: 'windows/windows.md'
+- Windows: 
+  - Windows Home: 'windows/windows.md'
+  - Hard Drive Failure: 'windows/hard_drive/hardDriveFailure.md'
+  - Virus Removal: 'windows/virus/virus-removal-checklist.md'
+- Mac:
+  - iTunes keeps saying my password is incorrect: 'mac/appleID/appleIDPasswordIncorrect.md'
 
 theme: readthedocs
