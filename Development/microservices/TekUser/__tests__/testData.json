@@ -1,9 +1,0 @@
-{
-    "mongodbURL": "mongodb+srv://tekdashdev:d4xhbP06JIy9YTf8@tekdash-pkqob.mongodb.net/tekdash?retryWrites=true&w=majority",
-    "tek": {
-        "user_name": "testTekUser1",
-        "first_name": "Test",
-        "last_name": "User",
-        "updated_first_name": "UpdatedTest"
-    }
-}
